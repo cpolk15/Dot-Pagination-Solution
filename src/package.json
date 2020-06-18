@@ -1,0 +1,9 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/oliviertassinari/react-swipeable-views/tree/master/docs/src/pages/demos/DemoSimple.js",
+  "dependencies": {
+    "react-swipeable-views": "latest",
+    "react-dom": "latest",
+    "react": "latest"
+  }
+}
